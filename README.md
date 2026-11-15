@@ -1,8 +1,13 @@
 # Isto Intents — MCP server
 
-**Isto Intents** lets an AI assistant ask an independent local listing portal to keep looking for a
-used car or a home that is not on offer today. The portal watches its national market and e-mails
-the person what fits — after the person confirms on the portal's own page. The assistant never
+**Isto Intents** is a private intent exchange for used cars and homes — standing purchase intents.
+A person tells their AI assistant once what they want; a listing portal in their country watches
+used-car and home listings and e-mails them when a matching offer appears. Today it works in
+Slovakia and Czechia. Isto Intents is listed in
+[ChatGPT's app directory](https://chatgpt.com/plugins/plugin_asdk_app_6add1063e20c8191b4c83f7415bd8c1b)
+since 13 November 2026.
+
+The person confirms on the portal's own page before anything is watched. The assistant never
 passes a name, an e-mail address or a phone number.
 
 - Server: `https://istointents.com/mcp` — Streamable HTTP, no authentication
