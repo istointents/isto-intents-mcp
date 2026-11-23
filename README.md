@@ -1,5 +1,7 @@
 # Isto Intents — MCP server
 
+Lets ChatGPT or Claude keep watching for a used car or apartment that is not on offer yet and email the user when one appears — MCP server, SK/CZ.
+
 **Isto Intents** is a private intent exchange for used cars and homes — standing purchase intents.
 A person tells their AI assistant once what they want; a listing portal in their country watches
 used-car and home listings and e-mails them when a matching offer appears. Today it works in
