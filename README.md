@@ -59,6 +59,15 @@ The assistant calls `intent_publish_intent`, shows you the portal's confirmation
 can show what the portal found with `intent_list_matches`. You can stop it at any time, from the
 assistant or from the link in every e-mail the portal sends.
 
+## Portals
+
+The four portals behind Isto Intents also run their own search MCP servers, listed on Glama:
+
+- [AutoIsto](https://glama.ai/mcp/connectors/sk.autoisto/used-cars) — used cars, Slovakia
+- [AutoIsto CZ](https://glama.ai/mcp/connectors/cz.autoisto/used-cars) — used cars, Czech Republic
+- [LivinIsto](https://glama.ai/mcp/connectors/sk.livinisto/real-estate) — homes, Slovakia
+- [LivinIsto CZ](https://glama.ai/mcp/connectors/cz.livinisto/real-estate) — homes, Czech Republic
+
 ## Privacy
 
 The server forwards only the wish, its optional details and the country — never contact data or
