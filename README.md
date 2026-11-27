@@ -51,7 +51,7 @@ https://istointents.com/assistants/.
 
 Ask in your own words, for example:
 
-> Let me know until March about an estate car in Portugal under 15 000 €, not diesel.
+> Let me know until March about an estate car in Slovakia under 15 000 €, not diesel.
 
 > Keep an eye out for a 3-room flat in Bratislava up to 250 000 €.
 
